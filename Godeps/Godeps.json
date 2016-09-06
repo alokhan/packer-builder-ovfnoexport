@@ -1,0 +1,16 @@
+{
+	"ImportPath": "github.com/alois/packer-builder-ovfnoexport",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/mitchellh/packer",
+			"Rev": "42144640658ded0e55be62984642750ffc4978db"
+		},
+		{
+			"ImportPath": "github.com/mitchellh/multistep",
+			"Rev": "162146fc57112954184d90266f4733e900ed05a5"
+		}
+
+	]
+}
