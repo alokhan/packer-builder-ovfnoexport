@@ -1,3 +1,6 @@
+This Packer builder import a ovf into virtual box but does not delete and export the vm.
+The goal is to speed up the process because we I did not need a intermediate image.
+
 How to compile:
 
 - godep restore 
